@@ -1,2 +1,2 @@
-# First-Work-Django-Project
+# First-Work-HTML-Project
 My 1st work 
